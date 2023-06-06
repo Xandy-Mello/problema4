@@ -1,0 +1,45 @@
+<mxfile host="app.diagrams.net" modified="2023-06-06T15:50:16.628Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 OPR/99.0.0.0" etag="NnovbjIXX45vBP1rsNXc" version="21.3.7" type="github">
+  <diagram name="Página-1" id="oQpRElAgnhR7NKxCg2-n">
+    <mxGraphModel dx="1394" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="utT9G9273KMaDu8NAlAD-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="utT9G9273KMaDu8NAlAD-1" target="utT9G9273KMaDu8NAlAD-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="utT9G9273KMaDu8NAlAD-1" value="inicio" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="30" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="utT9G9273KMaDu8NAlAD-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="utT9G9273KMaDu8NAlAD-3" target="utT9G9273KMaDu8NAlAD-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="utT9G9273KMaDu8NAlAD-3" value="encerrar = &quot;n&quot;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="utT9G9273KMaDu8NAlAD-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="utT9G9273KMaDu8NAlAD-4" target="utT9G9273KMaDu8NAlAD-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="435" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="utT9G9273KMaDu8NAlAD-4" value="Saldo inicial: &lt;br&gt;&quot;+ saldo&quot;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="370" y="140" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="utT9G9273KMaDu8NAlAD-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="utT9G9273KMaDu8NAlAD-5" target="utT9G9273KMaDu8NAlAD-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="utT9G9273KMaDu8NAlAD-5" value="Saldo" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="utT9G9273KMaDu8NAlAD-10" value="encerrar = &quot;n&quot;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="350" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="utT9G9273KMaDu8NAlAD-12" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;F&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="430" y="340" width="40" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
